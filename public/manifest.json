@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "কিতাব খুঁজুন",
+  "name": "ইসলামিক বইয়ের গুগল",
   "icons": [
     {
       "src": "favicon.ico",
